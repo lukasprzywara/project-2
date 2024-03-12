@@ -1,1 +1,3 @@
 chapter 1 of this book will be about...
+
+...and the rest of the story will be in the chapter 2.
